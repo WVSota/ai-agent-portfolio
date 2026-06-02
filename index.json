@@ -1,0 +1,29 @@
+{
+  "samples": [
+    {
+      "title": "CSV -> JSON parser (typed, streaming, CLI)",
+      "path": "samples/csv_to_json.py",
+      "keywords": ["csv", "json", "parse", "data", "transform", "etl"]
+    },
+    {
+      "title": "Playwright web scraper (anti-detection, retry)",
+      "path": "samples/web_scraper.py",
+      "keywords": ["scrape", "scraper", "scraping", "playwright", "crawl", "extract", "web"]
+    },
+    {
+      "title": "FastAPI REST service (JWT auth, pydantic)",
+      "path": "samples/rest_api.py",
+      "keywords": ["api", "fastapi", "rest", "jwt", "backend", "integration", "endpoint"]
+    },
+    {
+      "title": "Telegram bot (async, command router)",
+      "path": "samples/telegram_bot.py",
+      "keywords": ["bot", "telegram", "automation", "async", "command"]
+    },
+    {
+      "title": "Source-cited research brief (method + citations)",
+      "path": "samples/research_brief.md",
+      "keywords": ["research", "brief", "writing", "analysis", "report", "evidence", "citation"]
+    }
+  ]
+}
